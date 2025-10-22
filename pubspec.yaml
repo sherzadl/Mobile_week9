@@ -1,0 +1,18 @@
+name: mp_practice_flutter
+description: Lecture 7 — APIs & Networking practice (GET, details, POST, CBU currency) 
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

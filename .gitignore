@@ -1,0 +1,21 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+ios/Pods/
+android/.gradle/
+android/app/build/
+**/GeneratedPluginRegistrant.*
+.melos_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.iml
